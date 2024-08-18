@@ -5,7 +5,7 @@ public class Number_check {
     public static void Check_number(int num) {
         if(num%2 == 0) {
             System.out.println("The number is even.");
-        } else {
+        }else {
             System.out.println("The number is odd.");
         }
     }
